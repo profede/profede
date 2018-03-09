@@ -9,9 +9,9 @@ contract Token is MiniMeToken {
         _tokenFactory,
         0x0,            // no parent token
         0,              // no snapshot block number from parent
-        "Professional Interaction Token",          // Token name
+        "Professional Activity TOken",          // Token name
         18,             // Decimals
-        "PIT",          // Symbol
+        "PATO",          // Symbol
         true            // Enable transfers
     ) {}
 }
