@@ -1,0 +1,21 @@
+{
+  "name": "token-crowdsale",
+  "version": "0.1.0",
+  "devDependencies": {
+    "async": "^2.4.0",
+    "bignumber.js": "^4.0.2",
+    "ethereumjs-testrpc": "^3.9.2",
+    "random-bytes": "^1.0.0",
+    "truffle": "4.0.6",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^0.20.0"
+  },
+  "dependencies": {},
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
